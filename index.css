@@ -1,0 +1,40 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.container a {
+    text-decoration: darkmagenta;
+    margin: 10px;
+    font-size: 30px;
+    margin-left: 50px;
+    margin-top: 50px;
+    font-family: fantasy;
+}
+
+img {
+    border-radius: 50%;
+}
+
+.bio {
+    /* color:brown; */
+    height: 300px;
+    width: 600px;
+    font-size: 25px;
+}
+
+body {
+        background-color:cornsilk;
+    }
+
+div {
+    margin: 20px;
+}
+
+
+
